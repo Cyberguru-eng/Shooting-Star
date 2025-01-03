@@ -1,2 +1,2 @@
-# Shooting-Star
-A mod that brings the shooting star service module from the dream chaser craft into ksp
+# Night Sky Cargo Module
+A mod that brings a new service module for the HL-20 craft into kerbal space program
